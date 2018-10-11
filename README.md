@@ -35,6 +35,10 @@ The Fastfile has to be inside your ./fastlane directory.
 
 [iOS App Store deployment using fastlane](https://docs.fastlane.tools/getting-started/ios/appstore-deployment/)
 
-### 其他Fastlane Action###
+### 其他Fastlane Action ###
 
 [Fastlane Actions](https://docs.fastlane.tools/actions/)
+
+### 問題排除 ###
+
+[]
