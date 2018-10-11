@@ -41,4 +41,4 @@ The Fastfile has to be inside your ./fastlane directory.
 
 ### 問題排除 ###
 
-[]
+[Failed to obtain exclusive lock on token file](https://stackoverflow.com/questions/3870082/application-loader-cannot-proceed-with-delivery-an-existing-transporter-insta/5334320)
